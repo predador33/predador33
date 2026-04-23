@@ -1,4 +1,4 @@
-<h2 align="left">OLA 👋! SEJA BEM VINDO(A)</h2>
+<h2 align="left">OLA 👋! SEJA BEM VINDO(A) SOU UM ESTUDANTE DE ADS</h2>
 
 ###
 
